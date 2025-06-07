@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/medication-icd10-mapper/static/js/main.6848db93.js",
+    "index.html": "/medication-icd10-mapper/index.html",
+    "main.6848db93.js.map": "/medication-icd10-mapper/static/js/main.6848db93.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.6848db93.js"
+  ]
+}
